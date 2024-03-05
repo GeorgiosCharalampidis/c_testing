@@ -8,10 +8,10 @@ int create(int x){
 
 }
 
-int main23() {
+int main() {
     printf("Hello, World!\n");
     int variable;
-    variable = 5;
+    variable = 15;
     variable = create(variable);
     printf("%d",variable);
     return 0;
